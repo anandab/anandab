@@ -15,7 +15,13 @@
   <a href="https://anandab.github.io"><img src="https://img.shields.io/badge/Location-Bay_Area_CA-334155?style=flat-square" alt="Location" /></a>
 </p>
 
-Operating at the bare-metal frontier since 18 years. I design and harden distributed systems where physical limits, kernel internals, and hostile electronic conditions collide. If cache hierarchy is not up to the mark, adding more compute will degrade latency only.
+    Eighteen and life in ring 0,
+    Eighteen and life, you know.
+    Your crime is latency,
+    And it’s CV^2f and bare-metal to go.
+                -Sebastian Bach
+
+Operating at the bare-metal frontier since I was 18 years old! I design and harden distributed systems where physical limits, kernel internals, and hostile electronic conditions collide. If cache hierarchy is not up to the mark, adding more compute will degrade latency only.
 
 ---
 
